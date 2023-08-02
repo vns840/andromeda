@@ -1,6 +1,6 @@
 export default function Contatc(){
   return(
-    <section id="contact" className="mt-[400px] text-ver-galaxy mb-12">
+    <section id="contact" className="mt-[400px] text-ver-galaxy mb-12 max-sm:mt-auto">
       <h2 className="flex items-center justify-center h-[225px]">Contatc</h2>
         <div className="flex items-center justify-center ">
           <form className="flex flex-col w-[50%] gap-3">

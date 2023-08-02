@@ -4,8 +4,8 @@ export default function About(){
   return(
     <section id="about" className="h-screen pb-4 text-ver-galaxy max-sm:h-auto">
       <h2 className="flex items-center justify-center h-[230px]">About</h2>
-      <div className="flex justify-around items-center max-sm:flex-col">
-        <div className="">
+      <div className="flex justify-around items-center max-sm:flex-col max-sm:gap-6">
+        <div>
           <Image className="" src="/images/galaxy-about.png" alt="" width={300} height={386} />
         </div>
         <div className="w-[50%]">
